@@ -1,136 +1,149 @@
-<!-- 
-Hi there! To edit this, just replace the [placeholders] with your own information.
-You can find awesome icons for the badges at https://simpleicons.org/
--->
-
 <div align="center">
-  <h1>
-    Hello, I'm Oleksii Medvedenko 👋
-  </h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer working at a computer" />
+
+  <h1>Hi, I'm Oleksii Medvedenko 👋</h1>
+
   <p>
-    <strong>Cybersecurity Student | System Administrator | Aspiring Ethical Hacker</strong>
+    <strong>Cybersecurity Master's Student · System Administrator · Infrastructure & Automation Builder</strong>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/olmed/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=mea37065&style=for-the-badge&color=0e75b6" alt="Profile views" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a final-year Bc. student with a deep passion for the intersection of network engineering and defensive security. My journey began with building and managing systems, which naturally evolved into a focus on protecting them. I thrive on understanding how systems work, from the Fibre Channel fabric in a SAN to the application layer policies on a Next-Gen Firewall.
+I am a **System Administrator** and a Master's student focused on building infrastructure that is secure, observable, and practical to operate.
 
--   🎓 Studying a Bachelor's degree/Robotics Technology/Technician at **FEI STUBA**.
--   🛡️ Working as a **System Administrator** at Bratislava - hlavné mesto SR, where I manage infrastructure and respond to security events.
--   🚀 Currently building tools to automate security compliance and threat detection.
--   🧠 Fascinated by malware analysis and the tactics used by threat actors (I love exploring the MITRE ATT&CK framework).
--   💡 My goal is to bridge the gap between system administration and advanced security operations (SecOps).
+- 🎓 Studying **Applied Informatics — Cybersecurity (I-API-Cybersec)** at **FEI STU in Bratislava**.
+- ✅ Completed my Bachelor's degree in 2026 with a thesis on **Cybersecurity of Industrial Networks**.
+- 🏙️ Working as a **System Administrator** at **Bratislava – hlavné mesto SR**.
+- 🛡️ Interested in defensive security, SecOps, incident detection, system hardening, and network security.
+- 🏭 Exploring **OT/ICS security**, segmentation, industrial monitoring, and secure IT/OT integration.
+- ⚙️ Automating infrastructure and operational workflows with **Python, PowerShell, and Bash**.
+- 🐧 Building with Linux, Windows Server, virtualization, containers, monitoring platforms, Raspberry Pi, and self-hosted services.
+- ☁️ Expanding into cloud-native infrastructure, Kubernetes, DevOps practices, and secure application development.
 
----
-
-### 🛠️ My Tech Stack & Core Competencies
-
-Here's a snapshot of the technologies and concepts I work with. I believe in a defense-in-depth approach, and my skills reflect that philosophy.
-
-#### 🛡️ Cybersecurity & SecOps
-<p>
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
-  <img src="https://img.shields.io/badge/SIEM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SIEM"/>
-  <img src="https://img.shields.io/badge/SOAR-7B2B93?style=for-the-badge&logo=tor&logoColor=white" alt="SOAR"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-D42D25?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK"/>
-  <img src="https://img.shields.io/badge/Endpoint_Security-6D459B?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Endpoint Security"/>
-  <img src="https://img.shields.io/badge/NAC-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="NAC"/>
-  <img src="https://img.shields.io/badge/Cryptography-00A388?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
-  <img src="https://img.shields.io/badge/Threat_Intelligence-9063CD?style=for-the-badge&logo=ibm&logoColor=white" alt="CTI"/>
-</p>
-
-#### ⚙️ Network Engineering & Administration
-<p>
-  <img src="https://img.shields.io/badge/Cisco_IOS-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"/>
-  <img src="https://img.shields.io/badge/Firewalls-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Firewalls"/>
-  <img src="https://img.shields.io/badge/VPN_(IPSec/SSL)-4695EB?style=for-the-badge&logo=nordvpn&logoColor=white" alt="VPN"/>
-  <img src="https://img.shields.io/badge/SD--WAN-F7941D?style=for-the-badge&logo=cisco&logoColor=white" alt="SD-WAN"/>
-  <img src="https://img.shields.io/badge/Network_Troubleshooting-00529B?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Troubleshooting"/>
-</p>
-
-#### 🖥️ Systems & Virtualization
-<p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VMware_vSphere-6F7472?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware vSphere"/>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/SAN_/_NAS-0067B1?style=for-the-badge&logo=synology&logoColor=white" alt="Storage"/>
-</p>
-
-#### 🐍 Scripting & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</p>
+> I enjoy understanding how systems work, finding where they can fail, and making them more resilient through monitoring, automation, and defense in depth.
 
 ---
 
-### 📜 Certifications & Training
+## 🔎 Current Interests
 
-I believe in continuous learning to stay ahead in the fast-paced world of cybersecurity. Here are some of the key certifications and training programs I've completed.
+- **Cybersecurity & SecOps:** detection engineering, SIEM, endpoint security, incident response, vulnerability management, and MITRE ATT&CK.
+- **OT/ICS Security:** industrial network segmentation, monitoring, IDS, firewalls, and secure remote access.
+- **Infrastructure Engineering:** Active Directory, Windows Server, Linux, networking, virtualization, storage, and remote desktop environments.
+- **Monitoring & Observability:** Zabbix, Wazuh, Suricata, centralized logging, dashboards, and service availability monitoring.
+- **Automation & DevOps:** scripting, Docker, Git, CI/CD concepts, AWS, Kubernetes, and infrastructure tooling.
+- **Homelab & Edge Projects:** Raspberry Pi, digital signage, self-hosting, dashboards, and practical hardware experiments.
+- **Software Projects:** security utilities, automation tools, AI-assisted workflows, and web applications.
 
-#### Fortinet (NSE)
+---
+
+## 🛠️ Technologies & Tools
+
+### 🛡️ Cybersecurity & Monitoring
+
 <p>
-  <img src="https://img.shields.io/badge/Fortinet_Certified-Associate_Cybersecurity-EE3124?style=for-the-badge" alt="Fortinet Certified Associate"/>
-  <img src="https://img.shields.io/badge/Fortinet_Certified-Fundamentals_Cybersecurity-EE3124?style=for-the-badge" alt="Fortinet Certified Fundamentals"/>
-  <img src="https://img.shields.io/badge/FortiGate_7.4-Operator-EE3124?style=for-the-badge" alt="FortiGate Operator"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Suricata-IDS-EF3B2D?style=for-the-badge" alt="Suricata IDS" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-D42D25?style=for-the-badge" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/OT%2FICS_Security-2F4F4F?style=for-the-badge" alt="OT and ICS Security" />
+  <img src="https://img.shields.io/badge/SIEM-0078D4?style=for-the-badge" alt="SIEM" />
 </p>
 
--   **Foundational Training:** Getting Started in Cybersecurity 3.0, Introduction to the Threat Landscape 3.0
+### 🖥️ Infrastructure, Networking & Platforms
 
-#### Cisco
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Network_Technician_Career_Path-00BCEB?style=for-the-badge" alt="Cisco Network Technician"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
--   **Foundational Training:** Introduction to Cybersecurity, Networking Basics
+### ⚙️ Automation, Cloud & Development
 
-#### Industry & Specialized
 <p>
-  <img src="https://img.shields.io/badge/(ISC)²-Candidate-005F9E?style=for-the-badge" alt="(ISC)² Candidate"/>
-  <img src="https://img.shields.io/badge/AttackIQ-Foundations_of_MITRE_ATT&CK-D42D25?style=for-the-badge" alt="AttackIQ MITRE ATT&CK"/>
-  <img src="https://img.shields.io/badge/EC--Council-Intro_to_SAN_&_NAS_Storage-3C4588?style=for-the-badge" alt="EC-Council Storage"/>
-</p>
-
-#### Language Proficiency
-<p>
-  <img src="https://img.shields.io/badge/EF_SET-B2_Upper_Intermediate-0077C8?style=for-the-badge" alt="EF SET English B2"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
 
-### 🚀 Current Projects
+## 🎓 Education
 
-I'm always working on something new. Here's a project I'm currently focused on:
+### Master's Degree — Applied Informatics, Cybersecurity
+**Slovak University of Technology in Bratislava, FEI** · 2026–present  
+Programme: **I-API-Cybersec**
 
--   **NIS2 Technical Compliance Toolkit:** A cross-platform Python script to help organizations audit their systems against the technical requirements of the NIS2 Directive. It gathers evidence on asset management, security configurations, and more.
+### Bachelor's Degree
+**Slovak University of Technology in Bratislava, FEI** · completed in 2026  
+Bachelor's thesis: **Cybersecurity of Industrial Networks**
+
+The thesis project covered OT/IT network segmentation, Siemens SCALANCE infrastructure, firewall policy design, Suricata IDS, centralized logging, Zabbix monitoring, and validation through simulated attacks.
 
 ---
 
-### 📊 My GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mea37065">
-    <img src="https://github-readme-stats.vercel.app/api?username=mea37065&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+### [NIS2 Technical Compliance Toolkit](https://github.com/mea37065/NIS2-TCT)
+A cross-platform Python utility for auditing system configurations and collecting technical evidence that supports NIS2 compliance activities.
+
+### [News Parser](https://github.com/mea37065/news-parser)
+A Python automation workflow that collects RSS news, creates concise AI-assisted summaries, supports Telegram review and follow-up questions, and publishes approved content to LinkedIn.
+
+### [Ping Tester](https://github.com/mea37065/Ping-Tester)
+A concurrent network health-check tool that reads host inventories from Excel and generates a polished, colour-coded availability report.
+
+---
+
+## 📜 Certifications & Training
+
+<p>
+  <img src="https://img.shields.io/badge/Fortinet_Certified-Associate_Cybersecurity-EE3124?style=for-the-badge" alt="Fortinet Certified Associate in Cybersecurity" />
+  <img src="https://img.shields.io/badge/Fortinet_Certified-Fundamentals_Cybersecurity-EE3124?style=for-the-badge" alt="Fortinet Certified Fundamentals in Cybersecurity" />
+  <img src="https://img.shields.io/badge/FortiGate_7.4-Operator-EE3124?style=for-the-badge" alt="FortiGate 7.4 Operator" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Technician" />
+  <img src="https://img.shields.io/badge/AttackIQ-MITRE_ATT%26CK_Foundations-D42D25?style=for-the-badge" alt="AttackIQ MITRE ATT&CK Foundations" />
+  <img src="https://img.shields.io/badge/(ISC)²-Candidate-005F9E?style=for-the-badge" alt="ISC2 Candidate" />
+  <img src="https://img.shields.io/badge/EF_SET-English_B2-0077C8?style=for-the-badge" alt="EF SET English B2" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mea37065&show_icons=true&theme=tokyonight&hide_border=true" alt="Oleksii's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mea37065&layout=compact&theme=tokyonight&hide_border=true" alt="Oleksii's most used languages" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Open to learning, collaboration, and building useful infrastructure and security tools.</strong>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/olmed/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/[YOUR-USERNAME]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mea37065&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to connecting with other students, professionals, and enthusiasts in the field. Feel free to reach out!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/olmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add other social links like Twitter or a personal blog if you have them -->
-</p>
+</div>
